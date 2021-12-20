@@ -1,0 +1,43 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.mainbody{
+    background-color: #EFEBE9;
+    font-family: cursive;
+}
+.mainbtn,.mainbtn1,.mainbtn2{
+     background-color: #086FDB;
+     border: none;
+     border-radius: 8px;
+}
+.main-a,.main-a1{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.spanmain{
+    font-size: 20px;
+}
+.body1{
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.footer{
+    background-color: black;
+    color: whitesmoke;
+}
+.label1{
+    font-size:20px;
+}
+
+.header1{
+    color: #E9ECEF;
+}
+.body2{
+    background-image: url('2');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
